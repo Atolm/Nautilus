@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nautilus", "Nautilus.csproj", "{4D89D1F1-2B11-14D3-ED16-B3BA2958C5C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nautilus.Plugins", "Nautilus.Plugins.csproj", "{FAF2ECA6-65F8-BB7C-B822-BD473A123621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nautilus.Editor", "Nautilus.Editor.csproj", "{C1E7A206-97BE-1458-08FD-80E82786B48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D89D1F1-2B11-14D3-ED16-B3BA2958C5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D89D1F1-2B11-14D3-ED16-B3BA2958C5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D89D1F1-2B11-14D3-ED16-B3BA2958C5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D89D1F1-2B11-14D3-ED16-B3BA2958C5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF2ECA6-65F8-BB7C-B822-BD473A123621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2ECA6-65F8-BB7C-B822-BD473A123621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2ECA6-65F8-BB7C-B822-BD473A123621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2ECA6-65F8-BB7C-B822-BD473A123621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1E7A206-97BE-1458-08FD-80E82786B48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1E7A206-97BE-1458-08FD-80E82786B48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1E7A206-97BE-1458-08FD-80E82786B48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1E7A206-97BE-1458-08FD-80E82786B48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
